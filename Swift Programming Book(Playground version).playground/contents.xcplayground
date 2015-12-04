@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='raw'>
+    <pages>
+        <page name='1.Basic'/>
+        <page name='2.Operator'/>
+        <page name='3.String'/>
+        <page name='03. Collection'/>
+        <page name='04. Control Flow'/>
+        <page name='05. Function'/>
+        <page name='06. Closure'/>
+        <page name='07. Enum'/>
+        <page name='08. Class &amp; Struct'/>
+        <page name='09. Property'/>
+        <page name='10. Method'/>
+        <page name='11. Subscipt'/>
+        <page name='12. Inheritance'/>
+        <page name='13. Initialization'/>
+        <page name='14. Deinitialization'/>
+        <page name='15. ARC'/>
+        <page name='16. Optional Chaining'/>
+        <page name='17. Error Handling'/>
+        <page name='18. Type Casting'/>
+        <page name='19. Nested Types'/>
+        <page name='20. Extentions'/>
+        <page name='21. Protocols'/>
+        <page name='22. Generics'/>
+        <page name='23. Access Control'/>
+        <page name='24. Advanced Operators'/>
+        <page name='What is new'/>
+    </pages>
+</playground>
